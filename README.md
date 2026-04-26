@@ -18,5 +18,5 @@ The skill is simple, reusable, and directly applicable to real group projects.
 ## Limitations
 The output is random and does not consider preferences or constraints.
 
-## Video
-(Paste your video link here)
+## Video link ##
+(https://youtu.be/x-I33uBN20Q)
